@@ -2,7 +2,7 @@
 
 最強のポイントカードを探せ！　ハッシュコードバトラー
 
-!https://raw.githubusercontent.com/7m4mon/hashcode_battler_pi/master/hashcode_battler_pi.jpg!
+<img src="https://raw.githubusercontent.com/7m4mon/hashcode_battler_pi/master/hashcode_battler_pi.jpg" alt="ハッシュコードバトラー" title="ハッシュコードバトラーパイ">
 
 概要
 
